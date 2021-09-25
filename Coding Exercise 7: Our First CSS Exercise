@@ -1,0 +1,14 @@
+p{
+        background-color:black;
+        color:white;
+    }
+button{
+    background-color:pink;
+    color:red;
+}
+h1{
+    color:green;
+}
+h2{
+    color:magenta;
+}
