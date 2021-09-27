@@ -1,0 +1,14 @@
+div{
+    width:210px;
+    border-color:grey;
+    border-radius:5px;
+    text-align:center;
+    border-width:1px;
+    border-style:solid;
+    
+}
+img{
+    width:200px;
+    border: solid 5px rgb(236,183,191);
+    border-radius:50%;
+}
