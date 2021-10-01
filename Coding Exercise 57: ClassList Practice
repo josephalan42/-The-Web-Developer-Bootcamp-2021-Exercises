@@ -1,0 +1,8 @@
+// WRITE YOUR CODE IN HERE:
+const one=document.querySelectorAll('li');
+one[0].classList.add('highlight');
+one[1].classList.toggle('highlight');
+one[2].classList.add('highlight');
+one[3].classList.add('highlight');
+one[4].classList.toggle('highlight');
+one[5].classList.add('highlight');
