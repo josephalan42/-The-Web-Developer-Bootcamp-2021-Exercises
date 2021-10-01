@@ -1,0 +1,6 @@
+const one=document.querySelector('#container');
+one.setAttribute('align','center');
+one.style.textAlign='center';
+const two=document.querySelector('img');
+two.style.width='150px';
+two.style.borderRadius='50%';
