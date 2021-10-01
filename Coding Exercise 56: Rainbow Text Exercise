@@ -1,0 +1,11 @@
+const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']; //PLEASE DON'T CHANGE THIS LINE!
+
+//YOU CODE GOES HERE:
+const one=document.querySelectorAll('span');
+one[0].style.color=colors[0];
+one[1].style.color=colors[1];
+one[2].style.color=colors[2];
+one[3].style.color=colors[3];
+one[4].style.color=colors[4];
+one[5].style.color=colors[5];
+one[6].style.color=colors[6];
