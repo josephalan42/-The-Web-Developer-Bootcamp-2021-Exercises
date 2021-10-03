@@ -1,0 +1,8 @@
+const one=document.querySelector("#hello");
+one.addEventListener('click',()=>{
+    console.log("hello");
+})
+const two=document.querySelector("#goodbye");
+two.addEventListener('click',()=>{
+    console.log("goodbye");
+})
