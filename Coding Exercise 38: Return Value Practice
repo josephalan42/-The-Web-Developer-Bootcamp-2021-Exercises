@@ -1,0 +1,9 @@
+// DEFINE YOUR FUNCTION BELOW:
+
+const multiply=function(a,b){
+    const c=a*b;
+    return c;
+}
+
+let a,b;
+multiply(a,b);
