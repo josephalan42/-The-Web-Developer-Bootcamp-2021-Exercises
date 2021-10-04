@@ -1,0 +1,6 @@
+// Write your function here:
+const printHeart=function(){
+    console.log("<3");
+}
+
+printHeart();
