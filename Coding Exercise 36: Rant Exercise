@@ -1,0 +1,12 @@
+// DEFINE YOUR FUNCTION:javascript:void(0)
+
+let rant = function(one){
+         console.log(one.toUpperCase());
+         console.log(one.toUpperCase());
+         console.log(one.toUpperCase());
+
+}
+
+const one = message.toUpperCase();
+
+rant(one);
