@@ -1,0 +1,15 @@
+// DEFINE YOUR FUNCTION BELOW:
+const sumArray= function(arr){
+    let sum=0;
+    for(let i=0;i<arr.length;i++){
+        sum+=arr[i];
+    }
+
+    return sum;
+}
+
+let n;
+let arr=[];
+for(let i=0;i<=n;i++){
+    arr.push(""+i);
+}
