@@ -1,0 +1,16 @@
+// DEFINE YOUR FUNCTION BELOW:
+
+const lastElement= function(arr){
+   
+    if(arr.length>0){
+        let n=arr.length-1;
+        return arr[n];
+    }
+    else {
+        return null;
+    }
+}
+    let mynumber;
+    var arr = [];
+    for (var i = 1; i <= mynumber; i++) arr.push(""+i);
+    lastElement(arr);
