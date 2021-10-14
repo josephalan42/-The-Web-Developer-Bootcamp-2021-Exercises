@@ -1,0 +1,8 @@
+// DEFINE YOUR FUNCTION BELOW:
+const returnDay = (num) => {
+    const days = [null, 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+      if(num < 1 || num > 7) {
+          return days[0];
+      }
+      return (days[num]);
+  }
