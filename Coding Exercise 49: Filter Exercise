@@ -1,0 +1,6 @@
+function validUserNames(strArr){
+	const one = strArr.filter(function(names) {
+	    return names.length < 10;
+        });
+        return one;
+}
