@@ -1,0 +1,4 @@
+function allEvens(arr) {
+    let one = arr.every(n => n % 2 === 0);
+    return one;
+}
